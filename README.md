@@ -29,11 +29,15 @@ _1 TIL and counting..._
 - [Count The Number Of Matches](vim/count-the-number-of-matches.md)
 
 #### 学习markdown语法
-- markdown基础语法
+- [学习markdown的第一步（mark官方文档与平常的使用记录）](markdown%2F%D1%A7%CF%B0markdown%B5%C4%B5%DA%D2%BB%B2%BD%A3%A8mark%B9%D9%B7%BD%CE%C4%B5%B5%D3%EB%C6%BD%B3%A3%B5%C4%CA%B9%D3%C3%BC%C7%C2%BC%A3%A9.md)
+
+#### 学习ai
+- [了解ai的第一步-观看ai绘图（Stable Diffusion）的学习分享视频.md](ai%2F%C1%CB%BD%E2ai%B5%C4%B5%DA%D2%BB%B2%BD-%B9%DB%BF%B4ai%BB%E6%CD%BC%A3%A8Stable%20Diffusion%A3%A9%B5%C4%D1%A7%CF%B0%B7%D6%CF%ED%CA%D3%C6%B5.md)
 <br><br>
 ## 其他
 #### 生活日记
-- [记忆（231111）](lifeLog/231111（记忆）.md)
+- [记忆（231111）](lifeLog/23-11-11（记忆）.md)
+- 
 
 
 
