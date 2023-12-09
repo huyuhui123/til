@@ -13,32 +13,42 @@
 _1 TIL and counting..._
 
 
-### 技术文档
+### [技术文档](#技术文档)
 
 - [Vim](#vim)
-- [markdown语法](#markdown语法)
+- [markdown语法](#学习markdown语法)
 - idea使用记录
 
-### 其他
-- [生活日记](#生活日记)
+###  [生活日记](#生活日记)
+###  [观影笔记](#观影笔记)
+###  [读书笔记](#读书笔记)
+
 
 ***
-## 教程
+## 技术文档
 
 #### 学习vim语法
-- [Count The Number Of Matches](vim/count-the-number-of-matches.md)
+- [Count The Number Of Matches](技术文档/vim/count-the-number-of-matches.md)
 
-#### 学习markdown语法
-- [学习markdown的第一步（mark官方文档与平常的使用记录）](markdown%2F%D1%A7%CF%B0markdown%B5%C4%B5%DA%D2%BB%B2%BD%A3%A8mark%B9%D9%B7%BD%CE%C4%B5%B5%D3%EB%C6%BD%B3%A3%B5%C4%CA%B9%D3%C3%BC%C7%C2%BC%A3%A9.md)
+#### 学习markdown语法  
+- [学习markdown的第一步（mark官方文档与平常的使用记录）](技术文档/markdown/学习markdown的第一步（mark官方文档与平常的使用记录）.md)
 
-#### 学习ai
-- [了解ai的第一步-观看ai绘图（Stable Diffusion）的学习分享视频.md](ai%2F%C1%CB%BD%E2ai%B5%C4%B5%DA%D2%BB%B2%BD-%B9%DB%BF%B4ai%BB%E6%CD%BC%A3%A8Stable%20Diffusion%A3%A9%B5%C4%D1%A7%CF%B0%B7%D6%CF%ED%CA%D3%C6%B5.md)
+#### 学习ai 
+- [了解ai的第一步-观看ai绘图（Stable Diffusion）的学习分享视频.md](技术文档/ai/了解ai的第一步-观看ai绘图（Stable Diffusion）的学习分享视频.md)
 <br><br>
-## 其他
-#### 生活日记
-- [记忆（231111）](lifeLog/23-11-11（记忆）.md)
-- 
 
+## 生活日记
+- [记忆（23-11-11）](生活日记/23-11-11（记忆）.md)
+- [人性思考的第一步：开始深入思考（23-11-14）](生活日记/23-11-14（人性思考的第一步：开始深入思考）.md)
+- [人性思考的第二步：（23-11-18）](生活日记/23-11-18（人性思考的第二步：）.md)
+- [前景的困惑（23-11-26）](生活日记/23-11-26（前景的困惑）.md)
 
+<br><br>
+## 读书笔记
+- []()
+
+<br><br>
+## 观影笔记
+- []()
 
 ## 
