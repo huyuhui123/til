@@ -41,7 +41,7 @@ _1 TIL and counting..._
 - [学习markdown的第一步（mark官方文档与平常的使用记录）](技术文档/markdown/学习markdown的第一步（mark官方文档与平常的使用记录）.md)
 
 #### 学习ai 
-- [了解ai的第一步-观看ai绘图（Stable Diffusion）的学习分享视频.md](技术文档/ai/了解ai的第一步-观看ai绘图（Stable Diffusion）的学习分享视频.md)
+- [了解ai的第一步-观看ai绘图（Stable Diffusion）的学习分享视频.md](技术文档/ai/了解ai的第一步-观看ai绘图（StableDiffusion）的学习分享视频.md)
 <br><br>
 
 ## 生活日志
